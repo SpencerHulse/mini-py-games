@@ -1,0 +1,1 @@
+words = ["aboard", "broad", "crafted", "dredged", "electricity", "frightened", "gleaming", "hillside", "illegitimate", "justification", "killing", "lemon", "monstrous", "nothing", "ophthalmologist", "predicated", "quiet", "restoration", "smiling", "truncated", "ultraviolet", "viewpoint", "willpower", "xerox", "yellow", "zealot"]
