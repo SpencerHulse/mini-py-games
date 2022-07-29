@@ -1,7 +1,7 @@
 import random
 
 def play():
-  user = input("'r' for rock, 'p' for paper, 's' for scissors")
+  user = input("'r' for rock, 'p' for paper, 's' for scissors\n")
   computer = random.choice(["r", "p", "s"])
 
   if user == computer:
@@ -18,4 +18,4 @@ def is_win(player, opponent):
   (player == "s" and opponent == "r"):
     return True
 
-play()
+print(play())
